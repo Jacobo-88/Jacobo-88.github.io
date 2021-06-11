@@ -331,7 +331,7 @@ img{
   font-weight: var(--font-medium);
   margin-top: var(--mb-3);
 }
-.home__botton-movil:hover{
+.home__button-movil:hover{
   background-color: var(--text-color);
   color: var(--container-color);
 }
@@ -513,7 +513,7 @@ img{
     display: grid;
     grid-template-columns: .5fr 1fr;
     background-color: var(--container-color);
-    box-shadow: 0 0 8px rgba(13, 12,12,.15);
+    box-shadow: 0 0 8px rgba(13,12,12,.15);
   }
   .resume__left{
     background-color: var(--container-color-alt);
