@@ -382,7 +382,7 @@ img{
 .experience__line{
   display: block;
   width: 2px;
-  height: 104%;
+  height: 110%;
   background-color: var(--text-color-light);
   transform: translate(7px, 0);
 }
@@ -440,7 +440,7 @@ img{
   color: var(--text-color-light);
 }
 .references__subtitle,
-.refernces__contact{
+.references__contact{
   font-size: var(--smaller-font-size);
 }
 .references__title{
