@@ -248,12 +248,10 @@ img{
   display: block;
   background-color: var(--first-color);
   color: var(--white-color);
-  padding: .20rem 2.5rem;
-  margin-right: 5%;
-  margin-left: 5%;
+  padding: .30rem 2.5rem;
+  margin-right: 10%;
+  margin-left: 10%;
   border-radius: .5rem;
-  border: none;
-  outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
   text-align: center;
