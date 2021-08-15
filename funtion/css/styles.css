@@ -190,6 +190,8 @@ img{
   align-self: flex-end;
   font-size: var(--big-font-size);
   color: var(--white-color);
+  right: 0;
+  bottom: 3%;
   line-height: .8;
 }
 .home__title span{
@@ -210,7 +212,7 @@ img{
   position: absolute;
   height:350px;
   right: 0;
-  bottom: 0;
+  bottom: 3%;
   width: 295px;
 }
 /*====== ABOUT ====*/
@@ -425,6 +427,7 @@ img{
       right: 5%;
       height: 550px;
       left: 45%;
+      bottom: 3%;
     }
 
     .about__container{
