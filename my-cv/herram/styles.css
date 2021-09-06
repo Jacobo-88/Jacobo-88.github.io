@@ -128,6 +128,10 @@ body.scale-cv{
 .scale-cv .interests__icon{
   font-size: 1rem;
 }
+.scale-cv .references__container{
+  height: 82px;
+
+}
 .scale-cv .education__container,
 .scale-cv .experience__container,
 .scale-cv .certificate__container{
